@@ -1,0 +1,7 @@
+Proje Python Dilinde Spyder ortamında Yazılmıştır.
+numpy
+scipy
+imutils
+opencv-python
+argparse
+tensorflow
